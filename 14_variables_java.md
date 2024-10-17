@@ -107,6 +107,9 @@ char c = 'hello';
 - digits within the single quote is also considered as character.
 - char variable will only accept the single character.
 - Double quotes for string.
+```JAVA
+char c=7;
+```
 
 ### BOOLEAN
 - Boolean will only accept true or false.
