@@ -115,6 +115,6 @@ char c = 'hello';
 - Boolean is used for conditions
 
 ```JAVA
-boolean b = true;
+boolean b = false;
 ```
 - As true itself is keyword, we don't have to use doule quotes.
