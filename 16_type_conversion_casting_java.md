@@ -53,6 +53,7 @@ O/P: 300
 
 - The result will not be stored in byte variable as it extents the range.
 - In java, the result value will be promoted into integer value and can be stored in integer variable.
+- Type promotion refers to the conversion from lower to higher datatype.
 ___
 
 - Casting concept is important in OOPs.
