@@ -49,6 +49,7 @@ class exp
 - We have different types in integers because it have different sizes. 
 - 1 byte = 8 bits
 - Range = 2^7 to 2^7-1 (128 to 127)
+-  The high-order bit represent for an integer is sign of the integer.
 
 |Datatype|Size|Range|
 |--|--|--|
