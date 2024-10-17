@@ -45,3 +45,5 @@ class exp
 - JDK(JRE(JVM)) - If you want to run your appliation in your machine, you need JDK.
 - If your code wants to run in other application, it doesn't needs JDK but need JRE & JVM.
 - That's why JAVA is WORa
+
+`Java code -> javac -> byte code -> JDK(JRE(JVM)))-> OS -> Hardware`
