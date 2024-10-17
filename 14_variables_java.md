@@ -116,8 +116,9 @@ char c=7;
 - There is no subtypes here.
 - In other languages, it may represented as 0 1. In Java, we don't do that. Java don't work with 0 and 1.
 - Boolean is used for conditions
+- The default value assigned to a variable of boolean type is false.
 
 ```JAVA
-boolean b = false;
+boolean b = true;
 ```
 - As true itself is keyword, we don't have to use doule quotes.
