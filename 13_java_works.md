@@ -20,6 +20,7 @@
 - Out of all the files, the execution starts from this first file.
 - That main method have a specific signature. 
 `public static void main ( String a[])` - We always need to pass this method.
+- If the main method is not found in the java program, runtime error will occur.
 
 `Java code -> javac -> byte code -> JVM(look for that particular syntax file) -> OS -> Hardware`
 
