@@ -56,7 +56,7 @@ switch(n)
     case 2:
         System.out.println("Tuesday");
         break;
- `  default:
+    default:
         System.out.println("Enter the valid number");
 }
 ```
