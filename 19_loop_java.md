@@ -89,7 +89,7 @@ do
 ```
 - When you write while at the start, curly bracs becomes statement. But you write at end, you have to use semicolon.
 - It will execute the block atleast once even if the condition is false.
-- Exit-controlled loop is the type of the do-while loop in terms of control flow
+- Exit-controlled loop is the type of the do-while loop in terms of control flow.
 ## FOR LOOP
 - In while loop, initialization, condition and increment/decrement is done on three different lines.
 - In finite loop, we know when it starts and when it will end.
