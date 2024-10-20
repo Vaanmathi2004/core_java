@@ -21,6 +21,7 @@ result = n%2==0 ? 10 : 20;
 
 # SWITCH STATEMENT
 - We can use switch and based on the value, it'll execute the particular case. That's why we say it as switch case statement.
+- This conditional statement is used to check multiple possible values of a variable.
 ```JAVA
 int n=1;
 switch(n)
