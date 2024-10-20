@@ -35,3 +35,12 @@ O/P: b
 - We can increment character.
 - This is also a literal.
 
+NOTE:
+```JAVA
+int i=4;
+int a= ~i;
+System.out.println(a);
+```
+- ~a is a bitwise NOT of i.
+- 00000100 is inverted as 11111011
+
